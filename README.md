@@ -129,7 +129,7 @@ Core modules include:
 
 ## minecraft
 
-![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/12.gif)
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/14.gif)
 
 Optimized for:
 
